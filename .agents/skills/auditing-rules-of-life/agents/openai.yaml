@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Rules of Life"
+  short_description: "Verify simulator compliance and evidence integrity"
+  default_prompt: "Use $auditing-rules-of-life to audit this simulator against every Rules-of-Life requirement and produce a verified evidence ZIP."

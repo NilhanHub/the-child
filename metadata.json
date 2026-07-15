@@ -1,0 +1,6 @@
+{
+  "name": "The Child",
+  "description": "Mother & Child: Need Learning Lab - An experimental artificial-child learning simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
